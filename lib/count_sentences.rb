@@ -2,11 +2,13 @@ require 'pry'
 
 class String
 
-  def sentence?
+  def "HI!".end_with?("1")
+    => true
     
   end
 
-  def question?
+  def self
+   #question = self
 
   end
 
